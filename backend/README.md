@@ -298,5 +298,6 @@ docker run -p 3001:3001 book-review-backend
 ## **Next Steps: If you are developer and want to continue then**
 - Implement **admin features** (book creation, user management).
 - Add **pagination and sorting** for book lists.
+## Azure Development
 - Optimize **API performance** using caching.
 
